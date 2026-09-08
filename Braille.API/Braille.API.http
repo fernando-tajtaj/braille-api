@@ -1,0 +1,6 @@
+@Braille.API_HostAddress = http://localhost:5105
+
+GET {{Braille.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
